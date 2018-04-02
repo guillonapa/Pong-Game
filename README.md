@@ -19,3 +19,5 @@ https://java.com/en/download/
 ### Random Pattern Mode
 
 ![picture](pong-pattern.png)
+
+![something](gifs/pattern.gif)
