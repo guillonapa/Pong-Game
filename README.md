@@ -16,8 +16,14 @@ https://java.com/en/download/
 
 ![picture](pong-app.png)
 
+### Regular Mode
+
+![regular](gifs/regular.gif)
+
 ### Random Pattern Mode
 
-![picture](pong-pattern.png)
+![random](gifs/pattern.gif)
 
-![something](gifs/pattern.gif)
+### Gravity Mode
+
+![gravity](gifs/gravity.gif)
